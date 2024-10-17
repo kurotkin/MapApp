@@ -6,7 +6,10 @@ License:    BSD-3-Clause
 URL:        https://auroraos.ru
 Source0:    %{name}-%{version}.tar.bz2
 
-Requires:   sailfishsilica-qt5 >= 0.10.9
+Requires:  sailfishsilica-qt5 >= 0.10.9
+Requires:  qt5-qtdeclarative-import-positioning
+Requires:  QtLocation
+Requires:  WebTiles
 BuildRequires:  pkgconfig(auroraapp)
 BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Qml)
