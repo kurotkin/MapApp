@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=com.kurotkin.MapApp
+Exec=/usr/bin/com.kurotkin.MapApp
+Name=MapApp
+Name[ru]=Карта
+
+[X-Application]
+Permissions=Internet;Location
+OrganizationName=com.kurotkin
+ApplicationName=MapApp
+ExecDBus=/usr/bin/com.kurotkin.MapApp
