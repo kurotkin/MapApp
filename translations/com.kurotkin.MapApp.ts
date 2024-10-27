@@ -39,12 +39,4 @@
         <translation>MapApp</translation>
     </message>
 </context>
-<context>
-    <name>MainPage</name>
-    <message>
-        <location filename="../qml/pages/MainPage.qml" line="10"/>
-        <source>MapApp</source>
-        <translation>MapApp</translation>
-    </message>
-</context>
 </TS>
